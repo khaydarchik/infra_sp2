@@ -85,5 +85,6 @@ PATCH /api/v1/titles/{titles_id}/
   ],
   "category": "string"
 }
+```
 ## Автор
 Студент Хайдаров Руслан
